@@ -7,7 +7,7 @@ cask "autoclick" do
   desc "Configurable autoclicker"
   homepage "https://github.com/joelfernandes23/Autoclick"
 
-  depends_on macos: :mojave
+  depends_on macos: :catalina
 
   app "Autoclick.app"
 end
