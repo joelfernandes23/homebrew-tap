@@ -1,8 +1,8 @@
 cask "autoclick" do
-  version "3.0.0-beta.4"
-  sha256 "4be3b53f1b4b022a7684efbb798e3742c9d73d79b99025e5c49e7381281a0261"
+  version "3.0.0-beta.5"
+  sha256 "cae97b43ac0c5e75cc26ea623a93b4697b8857ce29ebbc7847249cc19dd4abda"
 
-  url "https://github.com/joelfernandes23/Autoclick/releases/download/v3.0.0-beta.4/Autoclick-3.0.0-beta.4.zip"
+  url "https://github.com/joelfernandes23/Autoclick/releases/download/v3.0.0-beta.5/Autoclick-3.0.0-beta.5.zip"
   name "Autoclick"
   desc "Configurable autoclicker"
   homepage "https://github.com/joelfernandes23/Autoclick"
